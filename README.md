@@ -5,5 +5,6 @@ I have made use of Tourist dataset and made a dashboaed in Tableau. Then i have 
 [Trends in Tourist](https://roneel-govekar.github.io/tableau.github.io/Index.html)
 
 # Project 2
-We need to understand the waste disposal patterns of household in Canada. For this I have downloaded a dataset from statcan. I have used only the state wise waste generated in excel format. We will be using this data to Generate a Dashboard to understand waste generation across several years using Tableau. 
+We need to understand the waste disposal patterns of household in Canada. For this I have downloaded a dataset from statcan. I have used only the state wise waste generated in excel format. We will be using this data to Generate a Dashboard to understand waste generation across several years using Tableau.
+[Waste Generated in Canada](https://roneel-govekar.github.io/tableau.github.io/index.html)
 
